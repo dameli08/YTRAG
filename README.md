@@ -217,17 +217,6 @@ In `rag_chain.ipynb`:
 
 # 💡 **Author**
 
-**Дәмелі (Dameli) Kassym**
+**Dameli Kassym**
 Kazakh student exploring Machine Learning & RAG systems.
 
----
-
-If you want, I can also create:
-
-✅ a shorter “minimal README”
-or
-✅ a version with diagrams
-or
-✅ copy-paste-ready Markdown with icons and emojis
-
-Just tell me!
